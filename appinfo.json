@@ -1,0 +1,33 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "MPG13",
+    "enableMultiJS": true,
+    "longName": "Crash",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/icon.png",
+                "menuIcon": true,
+                "name": "ICON",
+                "targetPlatforms": null,
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "Crash",
+    "targetPlatforms": [
+        "aplite",
+        "basalt",
+        "chalk"
+    ],
+    "uuid": "42a16663-bbfb-4b1c-b6a5-0a50ccd200d1",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
